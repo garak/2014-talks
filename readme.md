@@ -449,3 +449,13 @@ By [Matthieu Moquet](https://connect.sensiolabs.com/profile/mattketmo)
 By [Michael Cullum](https://connect.sensiolabs.com/profile/unknownbliss)  
 ![github](icon/github.png) [@michaelcullum](https://github.com/michaelcullum)  
 ![twitter](icon/twitter.png) [@michaelcullumuk](https://twitter.com/michaelcullumuk)
+
+## Managing frontend libs in your Symfony project
+
+[Slides](http://www.slideshare.net/garak/managing-frontend-libs-in-your-symfony-project)  
+~~Video~~  
+[Project on GitHub](https://github.com/Bee-Lab/bowerphp)
+
+By [Massimiliano Arione](https://connect.sensiolabs.com/profile/garak)  
+![github](icon/github.png) [@garak](https://github.com/garak)  
+![twitter](icon/twitter.png) [@garakkio](https://twitter.com/garakkio)
